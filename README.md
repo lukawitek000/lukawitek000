@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+
+I'm Computer Science student at Lodz University of Technology 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<lukawitek000>&theme=<THEME_NAME>" />
+
 
 
 <!--
