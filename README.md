@@ -1,10 +1,15 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"👋, my name is Łukasz
+#### Computer Science student and passionate Android developer
+I'm on the third year of Computer Science studies at Lodz University of Technology. I have been developing my skills in Android programming for over a year. I'm also a member of the student project Lodz Solar Team where I'm responsible for creating mobile app for our solar car.
+
+Skills: Java, Kotlin, Android, Angular
+
+- 🔭 I’m currently working on https://github.com/lukawitek000/street-project 
+- 🌱 I’m currently learning Unit tests, MVVM architecture 
 
 
 
-I'm Computer Science student at Lodz University of Technology 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=lukawitek000&theme=<THEME_NAME>" />
 
 
 
