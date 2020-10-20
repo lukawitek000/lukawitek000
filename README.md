@@ -8,11 +8,11 @@ Skills: Java, Kotlin, Android, Angular, C++
 - 🌱 I’m currently learning Unit tests, MVVM architecture 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lukawitek000)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100003079823963)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukawitek000)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/lukawitek000)  
-
 
 <!--
 **lukawitek000/lukawitek000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
