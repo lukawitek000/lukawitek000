@@ -2,15 +2,16 @@
 #### Computer Science student and passionate Android developer
 I'm on the third year of Computer Science studies at Lodz University of Technology. I have been developing my skills in Android programming for over a year. I'm also a member of the student project Lodz Solar Team where I'm responsible for creating mobile app for our solar car.
 
-Skills: Java, Kotlin, Android, Angular
+Skills: Java, Kotlin, Android, Angular, C++
 
 - 🔭 I’m currently working on https://github.com/lukawitek000/street-project 
 - 🌱 I’m currently learning Unit tests, MVVM architecture 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lukawitek000)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukawitek000)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+![Profile views](https://gpvc.arturio.dev/lukawitek000)  
 
 
 <!--
