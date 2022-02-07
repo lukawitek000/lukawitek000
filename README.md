@@ -5,8 +5,8 @@ I'm on the forth year of Computer Science studies at Lodz University of Technolo
 Skills: Java, Kotlin, Android, Angular, C++
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lukawitek000)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100003079823963)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/%C5%82ukasz-witkowski-28473b1a4/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukawitek000)](https://github.com/anuraghazra/github-readme-stats)
 
