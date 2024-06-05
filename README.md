@@ -1,8 +1,8 @@
 ## Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Łukasz
-#### Computer Science student and passionate Android developer
-I'm on the forth year of Computer Science studies at Lodz University of Technology. I have been developing my skills in Android programming for two years. I've been also a member of the student project Lodz Solar Team where I'm responsible for creating mobile app for our solar car.
+#### Kotlin Senior Software Engineer and Computer Science Master's Student
+I am a Senior Software Engineer at TomTom, focusing on the Navigation SDK for Android. You can learn more about the SDK [here](https://developer.tomtom.com/navigation/android/introduction/introduction). On weekends, I pursue my Master's degree in Computer Science at the University of Lodz.
 
-Skills: Java, Kotlin, Android, Angular, C++
+Skills: Kotlin, Android, Gradle, Azure DevOps, Github Actions, Kotlin Multiplatform
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100003079823963)  
